@@ -32,10 +32,10 @@
 
 ### Research Papers and Articles
 
-- [VL2: A Scalable and Flexible Data Center Network (PDF)](./papers/VL2.pdf)
-- [Andromeda: Performance, Isolation, and Velocity at Scale in Cloud Network Virtualization](./papers/andromeda.pdf)
-- [Azure Accelerated Networking: SmartNICs in the Public Cloud](./papers/azure-smartnic-nsdi18.pdf)
-- [Achieving High Utilization with Software-Driven WAN](./papers/swan-sigcomm2013.pdf)
-- [Taking the Edge off with Espresso: Scale, Reliability and Programmability for Global Internet Peering](./papers/espresso.pdf)
+- [VL2: A Scalable and Flexible Data Center Network (PDF)](./papers/vl2-sigcomm09.pdf)
+- [Andromeda: Performance, Isolation, and Velocity at Scale in Cloud Network Virtualization](./papers/nsdi18-dalton.pdf)
+- [Azure Accelerated Networking: SmartNICs in the Public Cloud](./papers/nsdi18-firestone.pdf.pdf)
+- [Achieving High Utilization with Software-Driven WAN](./papers/sdwan-sigcomm2013.pdf)
+- [Taking the Edge off with Espresso: Scale, Reliability and Programmability for Global Internet Peering](./papers/espresso17.pdf)
 - [Maglev: A Fast and Reliable Software Network Load Balancer](./papers/maglev-nsdi2016.pdf)
 - [The Akamai Network: A Platform for High-Performance Internet Applications](./papers/akamai-osr2010.pdf)
