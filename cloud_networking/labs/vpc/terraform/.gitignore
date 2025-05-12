@@ -1,0 +1,7 @@
+*.json
+*.tfstate
+*.backup
+*.hcl
+.terraform/*
+
+
